@@ -1,4 +1,4 @@
-# NLP Final Project Recipe Chatbot - README
+# NLP Final Project Recipe Generator- README
 
 ## Overview
 This chatbot is designed to assist home cooks and aspiring chefs in generating personalized Pakistani recipes based on the specific ingredients they have available. The goal is to address common issues such as food waste, lack of variety, and difficulty experimenting with new dishes. The chatbot offers time-friendly, economic, and efficient recipes while ensuring the authenticity of traditional Pakistani cuisine.
@@ -28,15 +28,4 @@ The chatbot offers a seamless and intuitive user experience, guiding users throu
 - **Recipe Suggestions**: Receive a variety of dishes that match the input ingredients.
 - **Cooking Instructions**: Detailed, logically ordered steps that ensure authenticity and ease of preparation.
 
-**Context Management** and **Session Tracking** allow users to explore multiple recipes within a single conversation, providing an efficient and enjoyable user journey.
 
-## Future Enhancements
-In future updates, we plan to enhance the chatbot with features such as:
-- **Voice Input Support**: For easier and hands-free interaction.
-- **Regional Cuisine Variations**: Offering recipes from various regions of Pakistan.
-- **Recipe Rating and Feedback**: Allowing users to rate recipes and provide feedback for improvement.
-
-## Getting Started
-1. Clone the repository: 
-   ```bash
-   git clone [repository URL]
