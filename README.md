@@ -1,24 +1,42 @@
-Pakistani cuisine, known for its rich diversity and intricate flavors, often relies on specific ingredients and
-cooking methods. Most of the cooking recipes follow a rigid structure, limiting creativity and adaptabil-
-ity when working with diverse or limited ingredients. Home cooks or aspiring cooks frequently struggle
-to generate personalized recipes based on the specific ingredients they have available, leading to food
-waste, lack of variety, or difficulty in experimenting with new dishes.
-Therefore, a wide dataset of Pakistani recipes inside a chatbot can solve this issue by suggesting time-
-friendly, economic, and efficient recipes. The chatbot must understand the structure of Pakistani recipes,
-offer coherent and logically ordered cooking instructions ensuring the authenticity of the dish.
-Our chatbot will solve technical and user-centric challenges in the following ways:
-1. Natural Language Understanding (NLU): The chatbot needs to accurately interpret and
-process user inputs, which can vary significantly in terms of phrasing and detail. For example,
-users might list ingredients in different orders or formats, and the chatbot must understand and
-map these inputs to suitable recipes. Advanced NLU techniques, such as entity recognition and
-intent classification, will be critical in ensuring that the chatbot can handle diverse and incomplete
-inputs effectively.
-2. Dynamic Recipe Generation: Unlike static recipe databases, the chatbot should generate or
-adapt recipes dynamically based on available ingredients. This requires algorithms that can sub-
-stitute ingredients logically, adjust quantities, and still maintain the essence of Pakistani cuisine.
-This involves creating flexible recipe models that can accommodate variations without losing au-
-thenticity.
-3. User Experience and Interaction Flow: The chatbot must provide a seamless and intuitive
-user experience. It should guide users through the process of inputting ingredients, suggesting
-recipes, and offering cooking instructions. Context management and session tracking techniques
-will help maintain a coherent conversation, especially if users want to explore multiple recipes.
+# NLP Final Project Recipe Chatbot - README
+
+## Overview
+This chatbot is designed to assist home cooks and aspiring chefs in generating personalized Pakistani recipes based on the specific ingredients they have available. The goal is to address common issues such as food waste, lack of variety, and difficulty experimenting with new dishes. The chatbot offers time-friendly, economic, and efficient recipes while ensuring the authenticity of traditional Pakistani cuisine.
+
+## Problem Statement
+Pakistani cuisine is known for its rich diversity and intricate flavors, relying heavily on specific ingredients and cooking methods. Traditional recipe structures tend to be rigid, which limits creativity and adaptability, particularly when users have limited or diverse ingredients. As a result, many home cooks struggle to create personalized dishes, leading to frustration and food waste. This chatbot solves this issue by providing dynamic recipe suggestions that cater to the ingredients available.
+
+## Solution Approach
+Our chatbot will address both technical and user-centric challenges through the following features:
+
+### 1. **Natural Language Understanding (NLU)**
+The chatbot is designed to accurately interpret and process user inputs, which can vary significantly in phrasing and detail. For example, users may list ingredients in different orders or formats, and the chatbot will use advanced NLU techniques like:
+- **Entity Recognition**: Identifying key ingredients or cooking terms.
+- **Intent Classification**: Understanding user intent to match them with suitable recipes.
+
+These techniques ensure the chatbot can handle diverse and incomplete inputs effectively.
+
+### 2. **Dynamic Recipe Generation**
+Unlike static recipe databases, this chatbot dynamically generates or adapts recipes based on the available ingredients. Key features include:
+- **Ingredient Substitution**: Logically swapping unavailable ingredients with suitable alternatives.
+- **Quantity Adjustment**: Modifying ingredient quantities while maintaining the essence of Pakistani cuisine.
+- **Recipe Flexibility**: Accommodating ingredient variations without losing the authenticity of the dish.
+
+### 3. **User Experience and Interaction Flow**
+The chatbot offers a seamless and intuitive user experience, guiding users through:
+- **Inputting Ingredients**: Easily list available ingredients for personalized recipe suggestions.
+- **Recipe Suggestions**: Receive a variety of dishes that match the input ingredients.
+- **Cooking Instructions**: Detailed, logically ordered steps that ensure authenticity and ease of preparation.
+
+**Context Management** and **Session Tracking** allow users to explore multiple recipes within a single conversation, providing an efficient and enjoyable user journey.
+
+## Future Enhancements
+In future updates, we plan to enhance the chatbot with features such as:
+- **Voice Input Support**: For easier and hands-free interaction.
+- **Regional Cuisine Variations**: Offering recipes from various regions of Pakistan.
+- **Recipe Rating and Feedback**: Allowing users to rate recipes and provide feedback for improvement.
+
+## Getting Started
+1. Clone the repository: 
+   ```bash
+   git clone [repository URL]
