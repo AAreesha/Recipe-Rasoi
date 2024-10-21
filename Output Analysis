@@ -1,0 +1,65 @@
+custom_ingredients_list = [
+    "chicken, rice",
+    "beef, spices, tortilla",
+    "potato, curry, herbs",
+    "fish, lemon, herbs"
+]  # Add more ingredient sets as needed
+
+
+
+Predicted Recipes for "chicken, rice":
+  Logistic Regression: Chicken 65 Biryani
+  Decision Tree: Butter Chicken Fries
+  Random Forest: Chinioti Chicken
+  Support Vector Machine: Chicken 65 Biryani
+Predicted Recipes for "beef, spices, tortilla":
+  Logistic Regression: Spicy Egg and Potato Wrap
+  Decision Tree: Beef Dumplings
+  Random Forest: Egg and Potato Stuffed Tortilla
+  Support Vector Machine: Spicy Egg and Potato Wrap
+Predicted Recipes for "potato, curry, herbs":
+  Logistic Regression: Sweet Potato Lassi
+  Decision Tree: Sweet Potato Lassi
+  Random Forest: Sweet Potato Lassi
+  Support Vector Machine: Sweet Potato Lassi
+Predicted Recipes for "fish, lemon, herbs":
+  Logistic Regression: BBQ Fish & Lemon Herb Rice
+  Decision Tree: Fish and Herb Quinoa
+  Random Forest: Fish Tikka Wrap
+  Support Vector Machine: BBQ Fish & Lemon Herb Rice
+
+
+
+
+
+TEST RUN TWO: 
+
+custom_ingredients_list = [
+    "vegetables, mutton, garlic, ginger",
+    "milk, sugar, flour, rice",
+    "coconut, eggs, flour",
+    "potatoes, olive oil, cheese, soy sauce"
+]  # Add more ingredient sets as needed
+
+
+
+  Predicted Recipes for "vegetables, mutton, garlic, ginger":
+  Logistic Regression: Meat Saag Gosht
+  Decision Tree: Chutney Sandwich
+  Random Forest: Beef Tamatar Gosht
+  Support Vector Machine: Meat Saag Gosht
+Predicted Recipes for "milk, sugar, flour, rice":
+  Logistic Regression: Bakar Khani
+  Decision Tree: Boondi Phirni
+  Random Forest: Kheer Pancakes
+  Support Vector Machine: Bakar Khani
+Predicted Recipes for "coconut, eggs, flour":
+  Logistic Regression: Coconut Macaroon Cake
+  Decision Tree: Lemon & Coconut Bars
+  Random Forest: Coconut Rice Pudding
+  Support Vector Machine: Coconut Macaroon Cake
+Predicted Recipes for "potatoes, olive oil, cheese, soy sauce":
+  Logistic Regression: BBQ Fish & Roasted Garlic Potatoes
+  Decision Tree: BBQ Potato Wedges
+  Random Forest: Grilled Paneer & Zucchini Skewers
+  Support Vector Machine: BBQ Fish & Roasted Garlic Potatoes
