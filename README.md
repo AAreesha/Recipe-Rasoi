@@ -34,14 +34,36 @@ The chatbot offers a seamless and intuitive user experience, guiding users throu
 
 - **Data Preprocessing.ipynb**: This code cleans the data by removing duplicate recipes and merging the categories of those recipes that belong to different recipes. For example prawn biryani can be a part of the following categories: rice, seafood and meat.
 
-## How to run the code?
-The code for model evaluation is given in Model Evaluation.ipynb. For easier execution, we have broken them into steps labelled in the markdowns followed by the code segment. The sequence is as follows:
+# Steps to Build and Evaluate Recipe Classification Models
 
-Step 1: Load The Data 
-Step 2: Import All the Packages 
-Step 3: Divide the Data into Input(X=Ingredients) and Output(Y=Recipe Name) and partition it into training and testing sets
-Step 4: Import the ML models from Sci-kit
-Step 5: Run the Models on the Training and Testing set with traditional accuracy calculation
-Step 6: Run the models while using cosine-similarity-based accuracy
-Generate Bar Graphs for each model's performance evaluation
-Step 7: Test the Models on sample ingredients
+### **Step 1: Load The Data**
+   - Load the dataset containing recipes and their associated ingredients.
+   
+### **Step 2: Import All the Required Packages**
+   - Use libraries such as `pandas`, `numpy`, `re`, `matplotlib`, `seaborn`, and `scikit-learn` for data processing, model training, and evaluation.
+   
+### **Step 3: Divide the Data**
+   - Split the data into:
+     - **Input (X)**: The `Ingredients` column containing recipe ingredients.
+     - **Output (Y)**: The `Recipe Name` column.
+   - Partition the data into training and testing sets using `train_test_split`.
+
+### **Step 4: Import ML Models from Scikit-learn**
+   - Load machine learning models like:
+     - Logistic Regression
+     - Decision Tree Classifier
+     - Random Forest Classifier
+     - Support Vector Machine (SVC)
+
+### **Step 5: Traditional Accuracy Calculation**
+   - Train and test the models on the dataset.
+   - Calculate and display traditional accuracy using the test set for each model.
+   
+### **Step 6: Cosine-Similarity-Based Accuracy**
+   - Calculate cosine similarity between the predicted and actual ingredients for each recipe.
+   - Compute accuracy based on cosine similarity.
+   - Generate bar graphs for comparing model performance using both traditional and cosine-similarity-based accuracy.
+
+### **Step 7: Test Models on Sample Ingredients**
+   - Test the trained models on new sample ingredients to evaluate how well they predict the correct recipe.
+
