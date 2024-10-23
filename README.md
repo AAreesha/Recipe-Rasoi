@@ -36,6 +36,11 @@ The chatbot offers a seamless and intuitive user experience, guiding users throu
 
 # Steps to Build and Evaluate Recipe Classification Models
 
+### **Step 0: Download Dependencies**
+Run the following command to download the libraries present in our txt.
+pip install -r requirements.txt
+
+
 ### **Step 1: Load The Data**
    - Load the dataset containing recipes and their associated ingredients.
    
