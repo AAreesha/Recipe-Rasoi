@@ -35,5 +35,13 @@ The chatbot offers a seamless and intuitive user experience, guiding users throu
 - **Data Preprocessing.ipynb**: This code cleans the data by removing duplicate recipes and merging the categories of those recipes that belong to different recipes. For example prawn biryani can be a part of the following categories: rice, seafood and meat.
 
 ## How to run the code?
+The code for model evaluation is given in Model Evaluation.ipynb. For easier execution, we have broken them into steps labelled in the markdowns followed by the code segment. The sequence is as follows:
 
-1. 
+Step 1: Load The Data 
+Step 2: Import All the Packages 
+Step 3: Divide the Data into Input(X=Ingredients) and Output(Y=Recipe Name) and partition it into training and testing sets
+Step 4: Import the ML models from Sci-kit
+Step 5: Run the Models on the Training and Testing set with traditional accuracy calculation
+Step 6: Run the models while using cosine-similarity-based accuracy
+Generate Bar Graphs for each model's performance evaluation
+Step 7: Test the Models on sample ingredients
