@@ -1,0 +1,214 @@
+
+Baluchistan
+
+[
+    {"user_input": "Beef, Black Pepper, Garlic, Ghee", "relevant_recipes": ["Beef Namkeen Gosht", "Dum Pukht"]},
+    {"user_input": "Mutton, Black Pepper, Yogurt, Spices", "relevant_recipes": ["Meat Gharat", "BBQ Lamb Tikka"]},
+    {"user_input": "Dates, Sugar, Ghee, Cardamom", "relevant_recipes": ["Khajoor ka Halwa", "Balochi Halwa"]},
+    {"user_input": "Lamb Ribs, Garlic Paste, Cumin", "relevant_recipes": ["Grilled Lamb Ribs", "Grilled Lamb Chops"]},
+    {"user_input": "Quail, Lemon Juice, Ginger Garlic Paste", "relevant_recipes": ["BBQ Quail"]},
+    {"user_input": "Chicken Thighs, Garlic, Cumin", "relevant_recipes": ["Grilled Chicken Thighs", "Grilled Chicken Sandwich"]},
+    {"user_input": "Crab, Onions, Green Chilies", "relevant_recipes": ["Spicy Crab Masala", "Crab Curry"]},
+    {"user_input": "Fish, Saffron, Cream, Spices", "relevant_recipes": ["Fish Zafrani"]},
+    {"user_input": "Yogurt, Sugar, Cardamom", "relevant_recipes": ["Bihari Lassi","Melon Smoothie","Chilled Yogurt Smoothie","Lassi"]},
+    {"user_input": "Lamb Kebabs, Lettuce, Garlic Sauce", "relevant_recipes": ["BBQ Lamb Kebab Wraps"]}
+]
+
+Coastal
+
+[
+    {"user_input": "Rice, Fish, Coconut Milk, Spices", "relevant_recipes": ["Coconut Fish Pulao", "Fish Pulao"]},
+    {"user_input": "Prawns, Coconut Milk, Spices", "relevant_recipes": ["Prawn Coconut Curry", "Prawn and Coconut Curry"]},
+    {"user_input": "Coconut Water, Lemon Juice, Sugar", "relevant_recipes": ["Coconut Lemonade", "Spiced Coconut Lemonade"]},
+    {"user_input": "Mango, Coconut Milk, Sugar", "relevant_recipes": ["Mango Coconut Milkshake", "Mango Coconut Fizz"]},
+    {"user_input": "Fish, Coconut Milk, Curry Leaves, Ginger", "relevant_recipes": ["Malabar Fish Curry", "Fish Piri Piri"]},
+    {"user_input": "Rice, Prawns, Biryani Masala, Onions", "relevant_recipes": ["Shrimp Biryani", "Prawn Biryani"]},
+    {"user_input": "Lychee, Coconut Milk, Honey", "relevant_recipes": ["Lychee Coconut Water", "Coconut Lychee Smoothie"]},
+    {"user_input": "Pineapple, Coconut Milk, Mint", "relevant_recipes": ["Chilled Pineapple Delight", "Minty Pineapple Juice"]},
+    {"user_input": "Coconut Milk, Ginger, Honey", "relevant_recipes": ["Coconut Ginger Shake", "Ginger Coconut Shake"]},
+    {"user_input": "Coconut Milk, Tamarind, Sugar", "relevant_recipes": ["Coconut Tamarind Drink", "Tamarind Coconut Slush"]}
+]
+
+Fusion
+
+[
+    {"user_input": "Rice, Grilled Vegetables, Cheese", "relevant_recipes": ["Mediterranean Rice Bowl", "Cheesy Chicken Biryani"]},
+    {"user_input": "Rice, Chicken, Spices", "relevant_recipes": ["Moroccan Spiced Rice", "Spicy Chicken Taco Rice", "Chicken Korma Quesadilla Rice"]},
+    {"user_input": "Rice, Prawns, Spices", "relevant_recipes": ["Prawn Masala Burrito Rice", "Prawn Coconut Curry", "Prawn Biryani"]},
+    {"user_input": "Rice, Vegetables, Soy Sauce", "relevant_recipes": ["Egg Fried Rice with a Twist", "BBQ Chicken Fried Rice"]},
+    {"user_input": "Rice, Cheese, Biryani Spices", "relevant_recipes": ["Cheesy Chicken Biryani", "Fusion Biryani Pizza"]},
+    {"user_input": "Rice, Lentils, Curry", "relevant_recipes": ["Curry Lentil Burrito Rice", "Curry Risotto"]},
+    {"user_input": "Rice, Chicken, Szechuan Sauce", "relevant_recipes": ["Szechuan Chicken Pulao", "BBQ Chicken Fried Rice"]},
+    {"user_input": "Rice, Seafood, Curry", "relevant_recipes": ["Prawn Coconut Curry", "Desi Paella"]},
+    {"user_input": "Rice, Tandoori Chicken, Spices", "relevant_recipes": ["Tandoori Noodle Rice", "Tandoori Fish Rice"]},
+    {"user_input": "Rice, Sweet and Sour Sauce, Vegetables", "relevant_recipes": ["Sweet and Sour Rice", "Egg Fried Rice with a Twist"]}
+]
+
+KPK
+[
+    {"user_input": "Rice, Mutton, Spices", "relevant_recipes": ["Peshawari Pulao", "Peshawari Mutton Pulao"]},
+    {"user_input": "Rice, Chicken, Raisins", "relevant_recipes": ["Chicken Kabuli Pulao", "Peshawari Pulao"]},
+    {"user_input": "Beef, Tomatoes, Green Chilies", "relevant_recipes": ["Beef Karahi Gosht", "Beef Peshawari Karahi", "Beef Kharai"]},
+    {"user_input": "Minced Beef, Spices, Eggs", "relevant_recipes": ["Beef Chapli Kebab", "Meat Jangli Kebab"]},
+    {"user_input": "Rice, Almonds, Carrots", "relevant_recipes": ["Chicken Kabuli Pulao", "Peshawari Pulao"]},
+    {"user_input": "Rice, Ginger, Garlic", "relevant_recipes": ["Peshawari Pulao", "Chicken Kabuli Pulao", "Peshawari Mutton Pulao"]},
+    {"user_input": "Beef, Green Chilies, Ginger", "relevant_recipes": ["Beef Karahi Gosht", "Beef Peshawari Karahi", "Beef Kharai"]},
+    {"user_input": "Minced Beef, Skewers, Spices", "relevant_recipes": ["Meat Jangli Kebab", "Beef Chapli Kebab"]},
+    {"user_input": "Rice, Raisins, Whole Spices", "relevant_recipes": ["Peshawari Pulao", "Peshawari Mutton Pulao"]},
+    {"user_input": "Beef, Ginger, Garlic", "relevant_recipes": ["Beef Karahi Gosht", "Beef Kharai", "Beef Peshawari Karahi"]}
+]
+
+Punjab
+
+[
+    {"user_input": "Rice, Mutton, Whole Spices", "relevant_recipes": ["Peshawari Pulao", "Peshawari Mutton Pulao", "Mutton Yakhni Pulao", "Bhuna Gosht Pulao"]},
+    {"user_input": "Rice, Potatoes, Onions", "relevant_recipes": ["Tahari", "Aloo Biryani", "Aloo Keema Pulao", "Aloo Palak Pulao"]},
+    {"user_input": "Rice, Chicken, Yogurt", "relevant_recipes": ["Chicken Qorma Pulao", "Tandoori Chicken Biryani", "Murg Methi Biryani", "Chicken Biryani with Mint", "Achari Chicken Biryani"]},
+    {"user_input": "Rice, Spinach, Garlic", "relevant_recipes": ["Saag Chawal", "Palak Khichdi", "Spinach Pulao", "Palak Gosht Pulao"]},
+    {"user_input": "Rice, Grilled Chicken, Tomatoes", "relevant_recipes": ["Chicken Shashlik Biryani", "Tikka Biryani", "Chicken Tikka Pulao"]},
+    {"user_input": "Rice, Mutton, Tomatoes", "relevant_recipes": ["Mutton Karahi Pulao", "Bhuna Gosht Biryani", "Bhuna Pulao"]},
+    {"user_input": "Rice, Eggs, Onions", "relevant_recipes": ["Anda Chawal", "Egg Pulao", "Keema Fried Rice"]},
+    {"user_input": "Rice, Sweet Corn, Green Chilies", "relevant_recipes": ["Corn and Lemon Rice", "Sweet Corn Biryani", "Corn Pulao", "Chicken Corn Pulao"]},
+    {"user_input": "Rice, Lentils, Spices", "relevant_recipes": ["Khichri", "Mixed Lentil Khichdi", "Masoor Khichdi", "Pumpkin and Lentil Rice"]},
+    {"user_input": "Rice, Chickpeas, Tomatoes", "relevant_recipes": ["Chana Biryani", "Chickpea Pulao", "Lobia Pulao"]},
+    {"user_input": "Rice, Mustard Greens, Ghee", "relevant_recipes": ["Saag Chawal", "Palak Gosht Pulao", "Spinach Pulao"]},
+    {"user_input": "Rice, Carrots, Onions", "relevant_recipes": ["Gajar Ka Pulao", "Vegetable Khichri", "Peas and Carrot Pulao"]},
+    {"user_input": "Rice, Biryani Masala, Raisins", "relevant_recipes": ["Biryani with Raisins", "Chicken Biryani with Raisins", "Biryani with Dried Fruits"]},
+    {"user_input": "Rice, Minced Meat, Potatoes", "relevant_recipes": ["Aloo Keema Pulao", "Keema Pulao", "Keema Fried Rice"]},
+    {"user_input": "Rice, Spinach, Green Peas", "relevant_recipes": ["Spinach and Pea Pulao", "Spinach Pulao", "Green Pulao"]},
+    {"user_input": "Rice, Mutton, Ghee", "relevant_recipes": ["Peshawari Mutton Pulao", "Bhuna Gosht Pulao", "Mutton Pulao with Yogurt"]},
+    {"user_input": "Rice, Chicken, Cream", "relevant_recipes": ["Makhni Chicken Biryani", "Murg Makhani Biryani", "Malai Chicken Pulao"]},
+    {"user_input": "Rice, Cumin Seeds, Whole Spices", "relevant_recipes": ["Jeera Pulao", "Vegetable Yakhni Pulao", "Jeera Rice"]},
+    {"user_input": "Rice, Dried Fruits, Nuts", "relevant_recipes": ["Shahi Pulao", "Biryani with Dried Fruits", "Biryani with Raisins"]}
+]
+
+
+
+HONESTLY WYF AGAINNN
+[
+    {
+        "user_input": "Beef, Black Pepper, Garlic, Ghee",
+        "relevant_recipes": [
+            "Beef Namkeen Gosht",
+            "Dum Pukht",
+            "Beef Pasanda Biryani",
+            "Black Pepper Pulao",
+            "Spicy Beef Biryani",
+            "Beef Haleem Rice",
+            "Beef and Lentil Rice",
+            "Beef and Potato Pulao"
+        ]
+    },
+    {
+        "user_input": "Chicken, Yogurt, Spices, Garlic",
+        "relevant_recipes": [
+            "Chicken Qorma Pulao",
+            "Achari Chicken Biryani",
+            "Karachi Chicken Biryani",
+            "Chicken Makhani Biryani",
+            "Methi Chicken Biryani",
+            "Chicken Biryani with Mint",
+            "Chicken Keema Pulao",
+            "Tikka Biryani",
+            "Chicken Nihari Rice"
+        ]
+    },
+    {
+        "user_input": "Mutton, Cumin, Garlic, Onion",
+        "relevant_recipes": [
+            "Mutton Karahi Pulao",
+            "Peshawari Mutton Pulao",
+            "Kachchi Gosht Biryani",
+            "Mutton Korma Biryani",
+            "Bhuna Gosht Pulao",
+            "Mutton Pulao with Yogurt",
+            "Mutton Yakhni Pulao",
+            "Mutton Shank Pulao",
+            "Mutton and Vegetable Pulao"
+        ]
+    },
+    {
+        "user_input": "Fish, Coconut, Lemon, Spices",
+        "relevant_recipes": [
+            "Coconut Fish Pulao",
+            "Tamarind Fish Biryani",
+            "Fish Zafrani",
+            "Lemon Shrimp Pulao",
+            "Coconut Prawn Biryani",
+            "Coconut Chicken Pulao",
+            "Shrimp and Tomato Rice"
+        ]
+    },
+    {
+        "user_input": "Vegetables, Cumin, Ghee, Garlic",
+        "relevant_recipes": [
+            "Punjabi Vegetable Biryani",
+            "Mixed Vegetable Pulao",
+            "Vegetable Yakhni Pulao",
+            "Spicy Vegetable Rice",
+            "Vegetable Masala Pulao",
+            "Corn and Peas Pulao",
+            "Pumpkin and Lentil Rice",
+            "Mixed Lentil Khichdi",
+            "Baingan Biryani"
+        ]
+    },
+    {
+        "user_input": "Spinach, Lentils, Garlic, Ghee",
+        "relevant_recipes": [
+            "Palak Khichdi",
+            "Spinach and Rice",
+            "Saag Pulao",
+            "Palak Gosht Chawal",
+            "Spinach Biryani",
+            "Chickpea and Spinach Pulao",
+            "Prawn and Spinach Rice",
+            "Palak Shorba Pulao"
+        ]
+    },
+    {
+        "user_input": "Rice, Cashews, Raisins, Saffron",
+        "relevant_recipes": [
+            "Saffron Chicken Pulao",
+            "Biryani with Dried Fruits",
+            "Chicken and Raisin Rice",
+            "Biryani with Raisins",
+            "Sweet Rice with Raisins",
+            "Sweet Pulao",
+            "Rice with Cashews"
+        ]
+    },
+    {
+        "user_input": "Chicken, Tikka, Spices, Garlic",
+        "relevant_recipes": [
+            "Chicken Tikka Pulao",
+            "Tikka Biryani",
+            "Karachi Tikka Biryani",
+            "Chicken Tikka Rice",
+            "BBQ Chicken Fried Rice"
+        ]
+    },
+    {
+        "user_input": "Coconut, Lemongrass, Fish, Cream",
+        "relevant_recipes": [
+            "Coconut Fish Pulao",
+            "Coconut Prawn Biryani",
+            "Thai Green Curry Pulao",
+            "Chicken Coconut Rice",
+            "Coconut Lemon Rice",
+            "Creamy Coconut Rice"
+        ]
+    },
+    {
+        "user_input": "Rice, Yogurt, Spices, Vegetables",
+        "relevant_recipes": [
+            "Vegetable Khichdi",
+            "Khichdi with Vegetables",
+            "Vegetable Yakhni Pulao",
+            "Chana Daal Rice",
+            "Chickpea Pulao",
+            "Jeera Rice",
+            "Bagharay Chawal"
+        ]
+    }
+]
