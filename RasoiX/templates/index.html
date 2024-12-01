@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Recipe Recommendation System</h1>
+        <form id="recommendation-form">
+            <textarea id="user_input" name="user_input" placeholder="Enter a recipe description or ingredients"></textarea>
+            <select id="cuisine" name="cuisine">
+                <option value="">Select Cuisine Region (optional)</option>
+                {% for cuisine in cuisines %}
+                <option value="{{ cuisine }}">{{ cuisine }}</option>
+                {% endfor %}
+            </select>
+            <select id="category" name="category">
+                <option value="">Select Category (optional)</option>
+                {% for category in categories %}
+                <option value="{{ category }}">{{ category }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Get Recommendations</button>
+        </form>
+        <div id="recommendations"></div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

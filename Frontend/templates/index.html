@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Recommendation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h1>Recipe Recommendation</h1>
+    <form id="recipe-form">
+        <label for="user-input">Enter Ingredients or Dish Name:</label>
+        <input type="text" id="user-input" name="user-input" required><br>
+
+        <label for="cuisine-region">Cuisine Region:</label>
+        <select id="cuisine-region" name="cuisine-region">
+            <option value="Punjab">Punjab</option>
+            <option value="Sindh">Sindh</option>
+            <option value="Balochistan">Balochistan</option>
+            <option value="KPK">KPK</option>
+        </select><br>
+
+        <label for="cooking-method">Cooking Method:</label>
+        <select id="cooking-method" name="cooking-method">
+            <option value="Grilled">Grilled</option>
+            <option value="Fried">Fried</option>
+            <option value="Boiled">Boiled</option>
+            <option value="Steamed">Steamed</option>
+        </select><br>
+
+        <button type="submit" id="recommendBtn">Get Recommendations</button>
+    </form>
+
+    <h2>Recommended Recipes:</h2>
+    <ul id="recommendations-list"></ul>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

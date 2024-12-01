@@ -86,6 +86,8 @@ Punjab
 
 HONESTLY WYF AGAINNN
 [
+
+
     {
         "user_input": "Beef, Black Pepper, Garlic, Ghee",
         "relevant_recipes": [
@@ -212,3 +214,287 @@ HONESTLY WYF AGAINNN
         ]
     }
 ]
+
+
+Breakfast
+{
+    "user_input": "Whole wheat flour, ghee, spices",
+    "relevant_recipes": [
+        "Paratha",
+        "Aloo Paratha",
+        "Puri",
+        "Anda Paratha",
+        "Methi Thepla",
+        "Vegetable Paratha",
+        "Paneer Paratha",
+        "Egg and Cheese Paratha"
+    ]
+},
+{
+    "user_input": "Eggs, spices, onions, tomatoes",
+    "relevant_recipes": [
+        "Egg Curry",
+        "Bhurji",
+        "Egg Bhurji",
+        "Keema Ghotala",
+        "Masala Oats"
+    ]
+},
+{
+    "user_input": "Mixed vegetables, spices, flour",
+    "relevant_recipes": [
+        "Bhaji",
+        "Bhaji Puri",
+        "Vegetable Sandwich",
+        "Vegetable Upma",
+        "Thalipeeth"
+    ]
+},
+{
+    "user_input": "Milk, sugar, ghee",
+    "relevant_recipes": [
+        "Pudding",
+        "Atta Halwa",
+        "Seviyan",
+        "Sweets Roti"
+    ]
+},
+{
+    "user_input": "Rice, lentils, spices",
+    "relevant_recipes": [
+        "Idli",
+        "Rawa Dosa",
+        "Vegetable Upma",
+        "Kacha Biryani"
+    ]
+},
+{
+    "user_input": "Bread, vegetables, spices",
+    "relevant_recipes": [
+        "Vegetable Sandwich",
+        "Bhaji Sandwich",
+        "Paneer Bhurji Sandwich"
+    ]
+},
+{
+    "user_input": "Mutton, yogurt, spices, onions",
+    "relevant_recipes": [
+        "Mutton Korma",
+        "Dahi Ghosht"
+    ]
+},
+{
+    "user_input": "Semolina, vegetables, spices",
+    "relevant_recipes": [
+        "Upma",
+        "Vegetable Upma"
+    ]
+},
+{
+    "user_input": "Pizza base, spices, vegetables",
+    "relevant_recipes": [
+        "Nihari Pizza",
+        "Dahi Puri Pizza",
+        "Methi Thepla Quesadilla"
+    ]
+},
+{
+    "user_input": "Chickpea flour, spices, yogurt",
+    "relevant_recipes": [
+        "Dhokla",
+        "Methi Thepla"
+    ]
+}
+
+
+Seafood
+{
+    "user_input": "Fish, spices, onions, tomatoes",
+    "relevant_recipes": [
+        "Sindhi Fish Curry",
+        "Masala Fish",
+        "Fish Salan",
+        "Fish Tikka Masala",
+        "Fish Curry with Spinach",
+        "Fish and Vegetable Curry",
+        "Fish and Eggplant Curry"
+    ]
+},
+{
+    "user_input": "Prawns, spices, onions, tomatoes",
+    "relevant_recipes": [
+        "Biryani Prawns",
+        "Prawn Karahi",
+        "Prawn Masala",
+        "Prawn Bhuna",
+        "Prawn Curry with Potatoes",
+        "Prawn and Vegetable Curry"
+    ]
+},
+{
+    "user_input": "Fish, yogurt, spices, lemon",
+    "relevant_recipes": [
+        "Fish Tandoori",
+        "Fish Tikka Masala",
+        "Fish Korma",
+        "Fish Zafrani",
+        "Fish and Cilantro Pesto Pasta",
+        "Fish Kathi Rolls"
+    ]
+},
+{
+    "user_input": "Prawns, yogurt, spices, lemon",
+    "relevant_recipes": [
+        "Prawn Tandoori",
+        "Prawn Korma",
+        "Prawn Qorma",
+        "Prawn Masala Risotto",
+        "Prawn Curry Pot Pie",
+        "Prawn Tikka Biryani"
+    ]
+},
+{
+    "user_input": "Fish, chickpea flour, spices",
+    "relevant_recipes": [
+        "Fish Pakora",
+        "Fish Pakoras with Mint Chutney",
+        "Fish and Corn Fritters",
+        "Fish Bonda",
+        "Masala Fish Cakes"
+    ]
+},
+{
+    "user_input": "Prawns, chickpea flour, spices",
+    "relevant_recipes": [
+        "Prawn Pakora Spring Rolls",
+        "Prawn Fritters",
+        "Prawn Samosa",
+        "Prawn Samosa Chaat",
+        "Prawn and Sweet Corn Fritters"
+    ]
+},
+{
+    "user_input": "Fish, rice, spices",
+    "relevant_recipes": [
+        "Fish Biryani Stuffed Peppers",
+        "Fish and Pea Pulao",
+        "Spicy Fish Biryani Bowl",
+        "Fish Khichdi"
+    ]
+},
+{
+    "user_input": "Prawns, rice, spices",
+    "relevant_recipes": [
+        "Biryani Prawns",
+        "Prawn Fried Rice",
+        "Prawn and Vegetable Pulao",
+        "Prawn Biryani with Coconut",
+        "Prawn and Pea Risotto"
+    ]
+},
+{
+    "user_input": "Fish, coconut, spices",
+    "relevant_recipes": [
+        "Malabar Fish Curry",
+        "Fish and Coconut Curry",
+        "Fish Curry with Mango Salsa",
+        "Fish and Mango Quesadilla",
+        "Fish and Chaat Masala Fries"
+    ]
+},
+{
+    "user_input": "Prawns, coconut, spices",
+    "relevant_recipes": [
+        "Prawn Curry",
+        "Prawn and Mango Curry",
+        "Prawn Salad with Coconut Dressing",
+        "Prawn Biryani with Coconut"
+    ]
+},
+{
+    "user_input": "Fish, bread, spices",
+    "relevant_recipes": [
+        "Fish Sandwich",
+        "Fish Roll",
+        "Fish Burger",
+        "Fish Tikka Wraps",
+        "Fish Burger with Raita"
+    ]
+},
+{
+    "user_input": "Prawns, bread, spices",
+    "relevant_recipes": [
+        "Prawn Samosa",
+        "Prawn Tikka Masala Pizza",
+        "Prawn Qorma Pasta",
+        "Prawn and Egg Roll",
+        "Prawn Bruschetta"
+    ]
+},
+{
+    "user_input": "Fish, cream, spices",
+    "relevant_recipes": [
+        "Fish Zafrani",
+        "Fish Gratin",
+        "Fish and Cheese Stuffed Mushrooms",
+        "Fish Curry Burritos"
+    ]
+},
+{
+    "user_input": "Prawns, cream, spices",
+    "relevant_recipes": [
+        "Prawn Masala Dosa",
+        "Prawn Fettuccine",
+        "Prawn and Sweet Potato Mash",
+        "Prawn Masala Risotto"
+    ]
+}
+
+BBQ 
+
+{
+    "user_input": "Minced meat, ginger garlic paste, green chilies, cumin, coriander, salt",
+    "relevant_recipes": [
+        "Spicy Minced Meat Curry",
+        "Ginger Garlic Minced Kebabs",
+        "Green Chili Minced Meat Tacos",
+        "Coriander Minced Meat Stew"
+    ]
+},
+{
+    "user_input": "Ground beef, tomatoes, green chilies, coriander, cumin, pomegranate seeds",
+    "relevant_recipes": [
+        "Tomato and Ground Beef Stew",
+        "Pomegranate Beef Chili",
+        "Green Chili Beef Enchiladas",
+        "Cumin Beef Tomato Soup"
+    ]
+},
+{
+    "user_input": "Beef strips, yogurt, ginger garlic paste, fried onions, mustard oil",
+    "relevant_recipes": [
+        "Beef Yogurt Curry",
+        "Fried Onion Beef Stir-Fry",
+        "Mustard Oil Beef Skewers",
+        "Ginger Garlic Beef Strips"
+    ]
+},
+{
+    "user_input": "Chicken cubes, cream, yogurt, ginger garlic paste, green chilies",
+    "relevant_recipes": [
+        "Creamy Chicken Curry",
+        "Green Chili Chicken Masala",
+        "Yogurt Chicken Skewers",
+        "Ginger Garlic Chicken Stew"
+    ]
+},
+{
+    "user_input": "Fish fillets, lemon juice, ginger garlic paste, red chili powder, cumin",
+    "relevant_recipes": [
+        "Spicy Lemon Fish Curry",
+        "Red Chili Fish Tikka",
+        "Cumin Fish Stir-Fry",
+        "Ginger Garlic Lemon Fish Bake"
+    ]
+}
+
